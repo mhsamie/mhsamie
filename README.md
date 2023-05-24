@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **next.js applications**
 
-- 🤝 I’m looking for help with **next13-onlineshop**
+- 🤝 I’m looking for help with **next.js applications**
 
 - 💬 Ask me about **react.js and next.js**
 
