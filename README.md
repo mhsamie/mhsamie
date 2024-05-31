@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning and improving **frontend skills with next.js and react.js**
 
-- 👯 I’m looking to collaborate on **next.js applications**
+- 👯 I’m looking to collaborate on **next.js applications** and **Open-source software**
 
 - 🤝 I’m looking for help with **next.js applications**
 
