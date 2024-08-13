@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fatemeh samie</h1>
-<h3 align="center">A passionate frontend developer and a code lover</h3>
+<h3 align="center">A passionate Software Engineer and a code lover</h3>
 
-- 🌱 I’m currently learning and improving **frontend skills with next.js and react.js**
+- 🌱 I’m currently learning and improving **AI and machine learning**
 
-- 👯 I’m looking to collaborate on **next.js applications** and **Open-source software**
+- 👯 I’m looking to collaborate on **next.js applications** and **Open-source software** in Front-end engineering
 
 - 🤝 I’m looking for help with **next.js applications**
 
-- 💬 Ask me about **react.js and next.js**
+- 💬 Ask me about **JS , Python , R**
 
 - 📫 How to reach me **samiefatemeh99@gmail.com**
 
